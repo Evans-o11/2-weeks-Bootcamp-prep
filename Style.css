@@ -1,0 +1,88 @@
+body {
+    
+    background-color: #b8b1b1;
+    font-family: Arial, sans-serif;
+    color: #333;
+}
+button [type="submit"] { 
+    background-color: #4CAF50;
+    color: rgb(167, 62, 62);
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+p {
+    font-size: 16px;
+    line-height: 1.5;
+    margin-bottom: 20px;
+    size: 0cap;
+
+}
+h1 {
+    font-size: 36px;
+    margin-bottom: 20px;
+    color: grey
+
+}
+
+h2 {
+    font-size: 28px;
+    margin-bottom: 15px;
+    color: darkslateblue;
+ font-style: italic;
+    font-weight: bold;
+}
+
+#hireIntro {
+    font-size: 16px;
+    line-height: 1.5;
+    margin-bottom: 20px;
+    color: rgba(106, 55, 224, 0.856);
+    font-style: italic;
+    font-weight: bold;
+}
+
+p {
+    font-size: 16px;
+    line-height: 1.5;
+    margin-bottom: 20px;
+    color: rgba(84, 83, 87, 0.856);
+    font-style: georgia;
+    font-weight: bold;
+} 
+#rate {
+    font-size: 16px;
+    line-height: 1.5;
+    margin-bottom: 20px;
+    color: rgba(85, 32, 67, 0.856);
+    font-style: segoe ui;
+    font-weight: bold;
+}
+#click button {
+    background-color: #4CAF50;
+    color: green;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#serviceTypes {
+    font-size: 16px;
+    line-height: 1.5;
+    margin-bottom: 20px;
+    color: rgba(85, 32, 67, 0.856);
+    font-style: segoe ui;
+    font-weight: bold;
+} 
+
+#clientInfo {
+    font-size: 16px;
+    line-height: 1.5;
+    margin-bottom: 20px;
+    margin-color:black; 
+    color: black
+    font-style: segoe ui;
+    font-weight: bold;
+}
