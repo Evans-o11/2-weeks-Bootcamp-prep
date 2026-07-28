@@ -26,7 +26,7 @@ Early CSS practice files  box model, selectors, specificity, and basic styling r
 - Portfolio: https://evans-o11.github.io/2-weeks-Bootcamp-prep/evansportfolio.html
 - Resume: https://evans-o11.github.io/2-weeks-Bootcamp-prep/resume.html
 - Form: https://evans-o11.github.io/2-weeks-Bootcamp-prep/form.html
-- Table: https://evans-o11.github.io/2-weeks-Bootcamp-prep/Table.html
+  
 
 ## Skills practiced
 - HTML structure and semantic tags
